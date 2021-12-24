@@ -1,0 +1,14 @@
+{
+	"single_encounter": [
+		"@You confronted PREARTICLE ENEMYNAME.",
+		"@You encountered PREARTICLE ENEMYNAME!",
+		"@PREARTICLE ENEMYNAME blocked the way!",
+		"@PREARTICLE ENEMYNAME suddenly attacked!"
+	],
+	"multi_encounter": [
+		"@You confronted PREARTICLE ENEMYNAME and ENEMYPRONOUN cohorts!",
+		"@You encountered PREARTICLE ENEMYNAME and ENEMYPRONOUN cohorts!",
+		"@PREARTICLE ENEMYNAME and ENEMYPRONOUN cohorts blocked the way!",
+		"@PREARTICLE ENEMYNAME and ENEMYPRONOUN cohorts suddenly attacked!"
+	]
+}

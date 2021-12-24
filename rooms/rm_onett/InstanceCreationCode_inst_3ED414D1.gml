@@ -1,0 +1,1 @@
+npcID = "sign01"

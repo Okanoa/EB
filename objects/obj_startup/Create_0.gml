@@ -1,0 +1,1 @@
+splash_room = 0;

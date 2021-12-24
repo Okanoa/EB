@@ -1,0 +1,1 @@
+npcID = "knock10"

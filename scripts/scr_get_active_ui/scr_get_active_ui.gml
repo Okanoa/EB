@@ -1,0 +1,1 @@
+return ds_list_find_value(global.ui_manager.ui_stack, ds_list_size(global.ui_manager.ui_stack) - 1);

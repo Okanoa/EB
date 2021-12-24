@@ -1,0 +1,32 @@
+{
+    "id": "d8fc01a3-f341-4a60-8cdb-b96a5aa58613",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "d8fc01a3-f341-4a60-8cdb-b96a5aa58613",
+    "children": [
+        "30939f2c-673d-44b3-abdd-b9753e7fff2c",
+        "8c62266d-3897-4706-998c-6d9ab867c300",
+        "a6f1c40d-e6ce-4dc3-9551-668adeddbe14",
+        "6af64ac9-c547-4ea9-9b3a-1732dad3bc35",
+        "e2e65423-b4d2-4a7a-bfc2-7c88520de5e5",
+        "77492288-815d-45f0-a2ec-a9587b6c8b7e",
+        "2e0327ce-7ef7-4f32-ad0c-dd849c69afb9",
+        "e8d98ec6-de28-454a-8595-db63ae5b18a7",
+        "5db30c66-b436-4e4e-ac1d-889985c7e5e6",
+        "09ea89ce-c3c1-492f-a0d5-270db70bbf76",
+        "6c072ecf-7306-482c-bd75-d03fa678fbf3",
+        "83b93fcd-b8cd-4946-9714-b73b9d91f060",
+        "76ae423f-62de-4c01-a1f7-a5c69d458350",
+        "62aef518-11ea-466e-8e97-0a1d25a6b9fb",
+        "37458d35-d871-4d78-9424-a3078d83cb25",
+        "cf7bad67-40fa-434a-ba76-9b00f962a575",
+        "0afcac4f-91d9-48c8-bd79-9e67af01824e",
+        "d44f9cba-0c0b-4010-ba14-d93ccd334b3e",
+        "c7614611-c3ba-465a-87c6-4bdffb93edab",
+        "c89e64e8-0ff5-445e-8ac3-e00eca563359"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Overworld",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
